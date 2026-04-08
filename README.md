@@ -2,7 +2,7 @@
 
 **A real-time collaborative code editor. Think Google Docs, but for code.**
 
-[![Live Demo](https://img.shields.io/badge/Live-linecode--nizm.vercel.app-7c6fcd?style=flat-square&logo=vercel)](https://linecode-five.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-linecode--nizm.vercel.app-7c6fcd?style=flat-square&logo=vercel)](https://linecode-nizm.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Nizamuddin1N-181717?style=flat-square&logo=github)](https://github.com/Nizamuddin1N/lineCODE)
 [![Node](https://img.shields.io/badge/node-20.x-339933?style=flat-square&logo=node.js)](https://nodejs.org)
 [![React](https://img.shields.io/badge/react-18-61DAFB?style=flat-square&logo=react)](https://react.dev)
